@@ -11,7 +11,7 @@ pip install pandas
 
 ### Datasets and Num Classes
 
-datasets ={    
+datasets =    
     'inaturalist': 10000,
     'cifar100': 100,
     'cifar10': 10,
@@ -35,4 +35,3 @@ datasets ={
     'cub2011': 200,
     'stanford_cars': 196,
     'eurosat': 10,
-}
