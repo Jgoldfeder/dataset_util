@@ -9,6 +9,11 @@ pip install gdown
 pip install scipy
 pip install pandas 
 
+### Usage
+
+To create a dataset, pass in the directory to store the data, such as  "data/datasetname".
+For the name of the dataset, you must pass in "torch/datasetname" or "hfds/datasetname", depending on whether the dataset is being sourced from torch or huggingface
+
 ### Datasets and Num Classes
 
 datasets =    
